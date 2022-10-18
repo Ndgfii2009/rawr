@@ -1,0 +1,15 @@
+#contenedor{
+    display: flex;
+    justify-content:center;
+
+}
+.tarjeta{
+    background-color: darksalmon;
+    height: 300px;
+    width: 100px;
+    padding: 10px;
+    margin:15px;
+}
+.tarjeta img{
+    width: 100%;
+}
